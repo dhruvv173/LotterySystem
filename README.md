@@ -1,5 +1,5 @@
 # LotterySystem
-This is a simple Lottery System code in Solidity.
+This is a Decentralized Lottery System code in Solidity.
 
 The 2 main components of this application are The Manager & The Participants
 In order to Join the Lottery the Participants are should send the mentioned minimum ETH amount to the Manager's Address. 
